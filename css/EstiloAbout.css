@@ -1,0 +1,15 @@
+*{
+    margin: 1rem;
+}
+
+#contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.img{
+    background-color: aqua;
+    padding: 8rem;
+}
+
